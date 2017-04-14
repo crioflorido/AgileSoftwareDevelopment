@@ -20,7 +20,7 @@ MING
 		* Project management system (Redmine and Cerberus)
 		* Upsource (code review)
 		
-	* Team tasks' delegation - Ming
+	* Team tasks' delegation
 		* Front-end / GUI
 		* Back-end
 		* Business intelligence side
@@ -29,7 +29,7 @@ MING
 		* QA
 
 MAO
-	* Version control
+	* Version control - Done
 		* SVN / CVS / Git (commands such as push, commit, revert, etc.)
 
 	* Release process
