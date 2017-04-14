@@ -1,46 +1,47 @@
-* Agile Development
+Seminar outline:
 
-   * Agile manifesto
-   * Principles of agile methods
+	* What is Agile Development?
+	* Agile manifesto - Done, Ming
+	* Principles of agile methods - Done, Ming
 
-   * Agile project management
-      * Scrum master
-         * Scrum team
-      * Product owner
+	* Agile project management
+		* Scrum master
+			* Scrum team
+		* Product owner
 
-   * Collaboration methods
-      * Sprint planning (management only)
-      * Sprint startup (team + scrum master)
-      * Scrum meeting
-      * Sprint review
+	* Collaboration methods
+		* Sprint planning (management only)
+		* Sprint startup (team + scrum master)
+		* Scrum meeting
+		* Sprint review
 
-   * Development tools
-      * Project management system (Redmine and Cerberus)
-      * Upsource (code review)
+	* Development tools
+		* Project management system (Redmine and Cerberus)
+		* Upsource (code review)
 
-   * Version control
-      * SVN / CVS / Git (commands such as push, commit, revert, etc.)
+	* Version control
+		* SVN / CVS / Git (commands such as push, commit, revert, etc.)
 
-   * Release process
-      * Patches
-      * Major releases
-      * Upgrade packages
+	* Release process
+		* Patches
+		* Major releases
+		* Upgrade packages
 
-   * Team tasks' delegation
-      * Front-end / GUI
-      * Back-end
-      * Business intelligence side
-      * Technical and General Documentation
-      * Build and integration
-      * QA
+	* Team tasks' delegation
+		* Front-end / GUI
+		* Back-end
+		* Business intelligence side
+		* Technical and General Documentation
+		* Build and integration
+		* QA
 
-   * Software testing
-      * Unit tests
-      * Regression test / Component test
-      * Integration test
+	* Software testing
+		* Unit tests
+		* Regression test / Component test
+		* Integration test
 
-   * Communication media
-      * Skype for Business
-      * Goto Meeting
-      * MS Teams
-      * Outlook
+	* Communication media
+		* Skype for Business
+		* Goto Meeting
+		* MS Teams
+		* Outlook
