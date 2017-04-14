@@ -15,7 +15,12 @@ MING
 		* Sprint startup (team + scrum master) - Done
 		* Scrum meeting - Done
 		* Sprint review - Done
-		* Sprint retrospective
+		* Sprint retrospective - Done
+	
+	* Artifacts - Done
+		* Product Backlog - Done
+		* Sprint Backlog - Done
+		* Burndown Chart - Done
 
 	* Development tools
 		* Project management system (Redmine and Cerberus)
