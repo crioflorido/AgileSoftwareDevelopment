@@ -31,20 +31,20 @@ MING
 
 MAO
 	* Version control - Done
-		* SVN / CVS / Git (commands such as push, commit, revert, etc.)
+		* SVN / CVS / Git (commands such as push, commit, revert, etc.) - Done
 
-	* Release process
-		* Patches
-		* Major releases
-		* Upgrade packages
+	* Release management process - Done
+		* Patches - Done
+		* Upgrade packages - Done
+		* Major releases - Done
 
-	* Software testing - Mao
-		* Unit tests
-		* Regression test / Component test
-		* Integration test
+	* Software testing - 
+		* Unit tests - 
+		* Regression test / Component test - 
+		* Integration test - 
 
-	* Communication media
-		* Skype for Business
-		* Goto Meeting
-		* MS Teams
-		* Outlook
+	* Communication media - 
+		* Skype for Business - 
+		* Goto Meeting - 
+		* MS Teams - 
+		* Outlook - 
