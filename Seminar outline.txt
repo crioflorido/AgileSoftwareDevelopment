@@ -23,7 +23,7 @@ MING
 		* Burndown Chart - Done
 
 	* Development tools
-		* Project management system (Redmine and Cerberus)
+		* Project management system (Redmine) 
 		* Upsource (code review)
 		
 	* Team tasks' delegation
