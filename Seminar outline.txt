@@ -1,8 +1,9 @@
 Seminar outline:
 
+MING
 	* What is Agile Development?
-	* Agile manifesto - Done, Ming
-	* Principles of agile methods - Done, Ming
+	* Agile manifesto - Done
+	* Principles of agile methods - Done
 
 	* Agile project management
 		* Scrum master
@@ -18,7 +19,16 @@ Seminar outline:
 	* Development tools
 		* Project management system (Redmine and Cerberus)
 		* Upsource (code review)
+		
+	* Team tasks' delegation - Ming
+		* Front-end / GUI
+		* Back-end
+		* Business intelligence side
+		* Technical and General Documentation
+		* Build and integration
+		* QA
 
+MAO
 	* Version control
 		* SVN / CVS / Git (commands such as push, commit, revert, etc.)
 
@@ -27,15 +37,7 @@ Seminar outline:
 		* Major releases
 		* Upgrade packages
 
-	* Team tasks' delegation
-		* Front-end / GUI
-		* Back-end
-		* Business intelligence side
-		* Technical and General Documentation
-		* Build and integration
-		* QA
-
-	* Software testing
+	* Software testing - Mao
 		* Unit tests
 		* Regression test / Component test
 		* Integration test
