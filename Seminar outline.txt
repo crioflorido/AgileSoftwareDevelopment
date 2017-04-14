@@ -1,7 +1,6 @@
 Seminar outline:
 
 MING
-	* What is Agile Development?
 	* Agile manifesto - Done
 	* Principles of agile methods - Done
 
@@ -43,10 +42,10 @@ MAO
 		* Upgrade packages - Done
 		* Major releases - Done
 
-	* Software testing - 
-		* Unit tests - 
-		* Regression test / Component test - 
-		* Integration test - 
+	* Software testing - Done
+		* Unit tests - Done
+		* Regression test / Component test - Done
+		* Integration test - Done
 
 	* Communication media - 
 		* Skype for Business - 
