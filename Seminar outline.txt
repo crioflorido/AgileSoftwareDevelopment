@@ -22,11 +22,11 @@ MING
 		* Sprint Backlog - Done
 		* Burndown Chart - Done
 
-	* Development tools
-		* Project management system (Redmine) 
-		* Upsource (code review)
+	* Development tools - Done
+		* Project management system (Redmine) - Done
+		* Mateea - Done
 		
-	* Team tasks' delegation
+	* Team tasks' delegation - DONE ALL
 		* Front-end / GUI
 		* Back-end
 		* Business intelligence side
