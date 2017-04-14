@@ -5,16 +5,17 @@ MING
 	* Agile manifesto - Done
 	* Principles of agile methods - Done
 
-	* Agile project management
-		* Scrum master
-			* Scrum team
-		* Product owner
+	* Agile project management - Done
+		* Scrum master - Done
+			* Scrum team - Done
+		* Product owner - Done
 
-	* Collaboration methods
-		* Sprint planning (management only)
-		* Sprint startup (team + scrum master)
-		* Scrum meeting
-		* Sprint review
+	* Collaboration methods - Done
+		* Sprint planning (management only) - Done
+		* Sprint startup (team + scrum master) - Done
+		* Scrum meeting - Done
+		* Sprint review - Done
+		* Sprint retrospective
 
 	* Development tools
 		* Project management system (Redmine and Cerberus)
