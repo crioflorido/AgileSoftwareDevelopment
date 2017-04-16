@@ -47,8 +47,7 @@ MAO
 		* Regression test / Component test - Done
 		* Integration test - Done
 
-	* Communication media - 
-		* Skype for Business - 
-		* Goto Meeting - 
-		* MS Teams - 
-		* Outlook - 
+	* Communication media - Done
+		* Outlook - Done
+		* Skype for Business - Done
+		* MS Teams - Done
